@@ -1,4 +1,10 @@
-from operator import truediv
+#################
+# # Learn Python in 2019
+# By John Elder
+# codemy.com
+##################
+
+
 import os
 os.system('clear')
 
